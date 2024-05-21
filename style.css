@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    color: #3F3D56;
+    font-weight: 300;
+}
+
+.titelSpan {
+    color: #EE24FF;
+    font-weight: bold;
+}
+
+.textSpan {
+    font-weight: bold;
+    color: #3F3D56;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 15;
+    color: #828282;
+}
+
+.links {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
